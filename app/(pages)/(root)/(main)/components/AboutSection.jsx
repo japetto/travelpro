@@ -3,10 +3,10 @@
 
 export default function AboutSection() {
   const features = [
-    "All places and activities are carefully picked by us.",
+    "All places and activities carefully curated",
     "98% Course Completion Rates",
     "We are an award-winning agency",
-    "Trusted by more than 80,000 customers",
+    "Trusted by over 80,000 happy travelers",
   ];
 
   return (
@@ -36,10 +36,11 @@ export default function AboutSection() {
 
             <div className="cs_about_text">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit. Sed do
+                Planning a trip can be stressful, but we make it effortless.
+                From handpicked destinations to smooth bookings, our experts
+                handle every detail so you can simply relax and enjoy. With us,
+                your journey is designed for comfort, excitement, and
+                unforgettable memories.
               </p>
               <p className="mb-0 cs_accent_color cs_medium cs_fs_18">
                 Speak to our Destination Experts at Direct Call +1 546 378 654

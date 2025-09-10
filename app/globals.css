@@ -7402,3 +7402,6 @@ a {
     margin-bottom: 0;
   }
 }
+.cs_iconbox.cs_style_1:hover .cs_iconbox_icon img {
+  filter: brightness(6) invert();
+}

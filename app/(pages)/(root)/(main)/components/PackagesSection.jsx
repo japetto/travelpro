@@ -4,7 +4,7 @@
 export default function PackagesSection() {
   const packages = [
     {
-      img: "/images/package_img_1.jpeg",
+      img: "/images/package_img_1.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "5K+ Rating",
@@ -12,7 +12,7 @@ export default function PackagesSection() {
       price: "$370",
     },
     {
-      img: "/images/package_img_2.jpeg",
+      img: "/images/package_img_2.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "4.5K+ Rating",
@@ -20,7 +20,7 @@ export default function PackagesSection() {
       price: "$380",
     },
     {
-      img: "/images/package_img_3.jpeg",
+      img: "/images/package_img_3.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "4K+ Rating",
@@ -28,7 +28,7 @@ export default function PackagesSection() {
       price: "$390",
     },
     {
-      img: "/images/package_img_4.jpeg",
+      img: "/images/package_img_4.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "5K+ Rating",
@@ -67,7 +67,7 @@ export default function PackagesSection() {
             <div className="col-lg-3 col-sm-6" key={i}>
               <div
                 className="cs_card cs_style_1 cs_bg_filed cs_radius_5 position-relative"
-                data-src={p.img} // ClientEffects will turn this into background-image
+                style={{ backgroundImage: `url(${p.img})` }}
               >
                 <div className="cs_card_overlay cs_radius_5 position-absolute w-100 h-100" />
                 <div className="cs_card_content position-absolute">

@@ -17,9 +17,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "TravelPro - Your Gateway to the World",
+  title: "Travalio - Your Gateway to the World",
   description:
-    "TravelPro is your ultimate travel companion, offering personalized itineraries and expert advice.",
+    "Travalio is your ultimate travel companion, offering personalized itineraries and expert advice.",
+  icons: {
+    icon: "/images/fav.png",
+    shortcut: "/images/fav.png",
+    apple: "/images/fav.png",
+  },
 };
 
 export default function RootLayout({ children }) {

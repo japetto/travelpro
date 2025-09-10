@@ -5,7 +5,7 @@ export default function AboutBanner() {
   return (
     <section
       className="cs_page_header cs_bg_filed cs_primary_bg"
-      data-src="/images/about_header_bg.jpeg"
+      style={{ backgroundImage: `url(/images/about_header_bg.jpeg)` }}
     >
       <div className="container">
         <div className="cs_page_header_text text-center">

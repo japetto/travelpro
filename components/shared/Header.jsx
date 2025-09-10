@@ -75,7 +75,7 @@ export default function Header() {
             </svg>
           </span>
           <h1 className="text-3xl md:text-4xl font-bold text-white">
-            Travel<span className="text-[#2ecc71]">Pro</span>
+            Trava<span className="text-[#2ecc71]">lio</span>
           </h1>
         </Link>
 

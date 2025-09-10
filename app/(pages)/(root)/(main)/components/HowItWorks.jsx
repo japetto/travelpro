@@ -7,19 +7,19 @@ export default function HowItWorks() {
       img: "/images/working_process_1.png",
       number: "01",
       title: "Get Travel Insurence",
-      text: "We provide a range of digital marketing lutions including website design.",
+      text: "Stay protected on every journey with reliable travel insurance tailored to your needs.",
     },
     {
       img: "/images/working_process_2.png",
       number: "02",
       title: "Compare & Book",
-      text: "We provide a range of digital marketing lutions including website design.",
+      text: "Easily compare options and book the best flights, tours, and packages in minutes",
     },
     {
       img: "/images/working_process_3.png",
       number: "03",
       title: "Book a Room",
-      text: "We provide a range of digital marketing lutions including website design.",
+      text: "Find the perfect stay, from budget-friendly rooms to luxury resorts, at the best rates",
     },
   ];
 

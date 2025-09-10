@@ -32,9 +32,11 @@ export default function About() {
             <div className="mt-6 flex items-start gap-4">
               <span className="mt-3 inline-block h-[3px] w-14 rounded bg-[#2ecc71]" />
               <p className="text-slate-600 text-lg">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation.
+                Planning a trip can be stressful, but we make it effortless.
+                From handpicked destinations to smooth bookings, our experts
+                handle every detail so you can simply relax and enjoy. With us,
+                your journey is designed for comfort, excitement, and
+                unforgettable memories.
               </p>
             </div>
 
@@ -48,10 +50,10 @@ export default function About() {
 
             <ul className="mt-6 space-y-3 text-slate-700 text-lg">
               {[
-                "All places and activities are carefully picked by us.",
+                "All places and activities carefully curated",
                 "98% Course Completion Rates",
                 "We are an award-winning agency",
-                "Trusted by more than 80,000 customers",
+                "Trusted by over 80,000 happy travelers",
               ].map((t) => (
                 <li key={t} className="flex items-start gap-3">
                   <span className="mt-1 grid h-[30px] w-[30px] place-items-center rounded-full bg-[#2ecc71]/10 text-[#2ecc71] shadow">

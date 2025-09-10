@@ -6,12 +6,12 @@ export default function WhyChooseUs() {
     {
       icon: "/images/icons/calendar_icon_2.svg",
       title: "Set Travel Plan",
-      desc: "Distinctively impact client-centered ideas via future-proof paradigms.",
+      desc: "Customize your trip with easy planning tailored to your needs and preferences.",
     },
     {
       icon: "/images/icons/hotel-icon.svg",
-      title: "Luxary Hotel",
-      desc: "Distinctively impact client-centered ideas via future-proof paradigms.",
+      title: "Luxury Hotel",
+      desc: "Stay in handpicked hotels offering comfort, elegance, and top-class service.",
     },
   ];
 
@@ -19,12 +19,12 @@ export default function WhyChooseUs() {
     {
       icon: "/images/icons/compass_icon.svg",
       title: "Explore Around",
-      desc: "Distinctively impact client-centered ideas via future-proof paradigms.",
+      desc: "Discover iconic landmarks and hidden gems with guided tours and activities.",
     },
     {
       icon: "/images/icons/headset_icon.svg",
       title: "Support 24/7",
-      desc: "Distinctively impact client-centered ideas via future-proof paradigms.",
+      desc: "Enjoy peace of mind with round-the-clock assistance throughout your journey.",
     },
   ];
 

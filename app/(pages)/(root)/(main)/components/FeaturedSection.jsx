@@ -7,30 +7,22 @@ const FEATURES = [
   {
     title: "Customer Delight",
     icon: "/images/icons/feature_icon_1.svg",
-    desc: `We deliver the best service and you to
-experience for our customer we est
-service and you to experie`,
+    desc: `We prioritize your happiness by delivering seamless service and unforgettable travel experiences.`,
   },
   {
     title: "Trusted Adventure",
     icon: "/images/icons/feature_icon_2.svg",
-    desc: `We deliver the best service and you to
-experience for our customer we est
-service and you to experie`,
+    desc: `Your journeys are safe, reliable, and planned with care for worry-free adventures.`,
   },
   {
     title: "Expert Guides",
     icon: "/images/icons/feature_icon_3.svg",
-    desc: `We deliver the best service and you to
-experience for our customer we est
-service and you to experie`,
+    desc: `Discover hidden gems with our knowledgeable, friendly, and passionate guides.`,
   },
   {
     title: "Time Flexibility",
     icon: "/images/icons/feature_icon_4.svg",
-    desc: `We deliver the best service and you to
-experience for our customer we est
-service and you to experie`,
+    desc: `Travel on your terms with flexible schedules tailored to your lifestyle.`,
   },
 ];
 

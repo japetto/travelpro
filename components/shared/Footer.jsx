@@ -11,7 +11,7 @@ export default function Footer() {
           {/* Logo */}
           <div className=" md:mb-0">
             <h1 className="text-3xl md:text-4xl font-bold text-white">
-              Travel<span className="text-[#2ecc71]">Pro</span>
+              Trava<span className="text-[#2ecc71]">lio</span>
             </h1>
           </div>
 
@@ -80,7 +80,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row items-center justify-between text-base md:text-lg">
           <p style={{ margin: "0" }} className="mb-4 md:mb-0">
-            Copyright © {new Date().getFullYear()} TravelPro. All rights
+            Copyright © {new Date().getFullYear()} Travalio. All rights
             reserved.
           </p>
           <div className="flex gap-6  md:mt-0">

@@ -30,10 +30,11 @@ export default function TravelProOffer() {
                 Aerial view of Cape Town with Cape Town Stadium
               </h3>
               <p className="cs_banner_subtitle">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                hendrerit felis sit amet turpis vehicula convallis. Ut ac tellus
-                velit. Nulla mollis sollicitudin lacus id ornare. Phasellus
-                laoreet nulla et nulla sagittis, sit amet cursus urna mollis.
+                Don’t miss our exclusive Cape Town package! Soar above the city
+                with breathtaking aerial views, explore vibrant neighborhoods,
+                and witness the beauty of Table Mountain like never before. This
+                limited-time offer brings you the best of Cape Town at
+                unbeatable value.
               </p>
               <a href="#" className="cs_btn cs_style_1 cs_fs_18 cs_medium">
                 Read More
