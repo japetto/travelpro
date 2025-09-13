@@ -8,31 +8,33 @@ const DESTINATIONS = [
   {
     title: "Eiffel Tower",
     subtitle: "Paris, 24 Trips",
-    img: "/images/destinations/popular_destination_1.jpeg",
+
+    img: "/images/pp5.jpg",
     href: "/destination-details",
   },
   {
     title: "Pryde Mountains",
     subtitle: "Prydelands, 100 Trips",
-    img: "/images/destinations/popular_destination_2.jpeg",
+    img: "/images/ppsea.webp",
     href: "/destination-details",
   },
   {
     title: "Lao Lading Island",
     subtitle: "Krabal, 12 Trips",
-    img: "/images/destinations/popular_destination_3.jpeg",
+    img: "/images/pp3.jpg",
     href: "/destination-details",
   },
   {
     title: "Ton Kwen Temple",
     subtitle: "Thailand, 20 Trips",
-    img: "/images/destinations/popular_destination_4.jpeg",
+
+    img: "/images/pp1.jpg",
     href: "/destination-details",
   },
   {
-    title: "Taj Mahal",
+    title: "Phi Phi Islands",
     subtitle: "Thailand, 50 Trips",
-    img: "/images/destinations/popular_destination_5.jpeg",
+    img: "/images/pp2.jpg",
     href: "/destination-details",
   },
 ];

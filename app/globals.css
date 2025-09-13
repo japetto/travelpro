@@ -61,7 +61,7 @@
 }
 .bgBan {
   background-image: linear-gradient(135deg, #00000047, #00000044),
-    url("/images/ban.avif");
+    url("/Custom-images/banner.webp");
 
   background-position: top left;
 }

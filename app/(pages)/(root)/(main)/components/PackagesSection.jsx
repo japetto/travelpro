@@ -4,7 +4,7 @@
 export default function PackagesSection() {
   const packages = [
     {
-      img: "/images/package_img_1.jpg",
+      img: "/Custom-images/pk1.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "5K+ Rating",
@@ -12,7 +12,7 @@ export default function PackagesSection() {
       price: "$370",
     },
     {
-      img: "/images/package_img_2.jpg",
+      img: "/Custom-images/pk2.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "4.5K+ Rating",
@@ -20,7 +20,7 @@ export default function PackagesSection() {
       price: "$380",
     },
     {
-      img: "/images/package_img_3.jpg",
+      img: "/Custom-images/pk3.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "4K+ Rating",
@@ -28,7 +28,7 @@ export default function PackagesSection() {
       price: "$390",
     },
     {
-      img: "/images/package_img_4.jpg",
+      img: "/Custom-images/pk4.jpg",
       location: "Paris",
       days: "07 Days",
       rating: "5K+ Rating",

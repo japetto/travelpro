@@ -8,7 +8,7 @@ const PACKAGES = [
   {
     title: "Beauty of Solomon Island",
     location: "Africa Portugal Mexico",
-    img: "/images/package_img_5.jpeg",
+    img: "/images/tours/tr1.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
@@ -16,7 +16,7 @@ const PACKAGES = [
   {
     title: "Believe In Your Mexico",
     location: "Paris, France",
-    img: "/images/package_img_6.jpeg",
+    img: "/images/tours/tr2.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
@@ -24,7 +24,7 @@ const PACKAGES = [
   {
     title: "Proof That Bahamas Beauty",
     location: "Rome, Italy",
-    img: "/images/package_img_7.jpeg",
+    img: "/images/tours/tr3.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
@@ -32,7 +32,7 @@ const PACKAGES = [
   {
     title: "Famous for its skyscrapers",
     location: "New York City, USA",
-    img: "/images/package_img_8.jpeg",
+    img: "/images/tours/tr4.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
@@ -40,7 +40,7 @@ const PACKAGES = [
   {
     title: "An ancient Incan city",
     location: "Machu Picchu, Peru",
-    img: "/images/package_img_9.jpeg",
+    img: "/images/tours/tr5.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
@@ -48,7 +48,7 @@ const PACKAGES = [
   {
     title: "Famous for its whitewashed",
     location: "Santorini, Greece",
-    img: "/images/package_img_4.jpeg",
+    img: "/images/tours/tr6.jpg",
     price: "$4500",
     duration: "3 Day 2 Night",
     href: "/tour-details",
