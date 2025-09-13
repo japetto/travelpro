@@ -5,7 +5,7 @@ export default function Banner() {
     <section
       className="cs_page_header cs_bg_filed cs_primary_bg"
       style={{
-        backgroundImage: "url('/images/destination_header_bg.jpeg')",
+        backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/images/banner/bn.png)`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

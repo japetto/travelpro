@@ -5,7 +5,11 @@ export default function AboutBanner() {
   return (
     <section
       className="cs_page_header cs_bg_filed cs_primary_bg"
-      style={{ backgroundImage: `url(/images/about_header_bg.jpeg)` }}
+      style={{
+        backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/images/banner/bn.png)`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+      }}
     >
       <div className="container">
         <div className="cs_page_header_text text-center">
